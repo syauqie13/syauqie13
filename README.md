@@ -1,15 +1,6 @@
 # 👋 Hi, I'm Syauqie Billah
 
-![Syauqie Billah](img/github-header-banner.png)
-
----
-
-
-## 📊 GitHub Stats
-
-![Syauqie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syauqie13&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syauqie13&layout=compact&theme=tokyonight)
+![Syauqie Billah](img/banner.png)
 
 ---
 
@@ -21,6 +12,15 @@
 - 🎯 Goal: Becoming a **Fullstack Developer**
 
 ---
+
+
+## 📊 GitHub Stats
+
+![Syauqie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syauqie13&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syauqie13&layout=compact&theme=tokyonight)
+
+---
+
+
 
 
 ## 🛠️ Tech Stack
