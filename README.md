@@ -25,13 +25,8 @@
   <img src="https://raw.githubusercontent.com/syauqie13/syauqie13/output/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syauqie13/syauqie13/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syauqie13/syauqie13/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/syauqie13/syauqie13/output/pacman-contribution-graph.svg">
-</picture>
-</div>
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -76,12 +71,10 @@
 
 ---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/syaaaaa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=syaaaaa&count=5" alt="Spotify recently played"  />
-    
-  </a>
-</div>
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/syaaaaa)
+
+
 ---
 
 ⭐ Feel free to explore my repos and give a **star** if you like my work!
