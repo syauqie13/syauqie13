@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Syauqie Billah
+.# 👋 Hi, I'm Syauqie Billah
 
 ![Syauqie Billah](img/banner.png)
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech And Tools Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
