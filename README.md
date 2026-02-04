@@ -1,4 +1,4 @@
-.# 👋 Hi, I'm Syauqie Billah
+👋 Hi, I'm Syauqie Billah
 
 ![Syauqie Billah](img/banner.png)
 
